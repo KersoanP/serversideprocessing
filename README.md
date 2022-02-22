@@ -141,7 +141,7 @@ urlpatterns = [
 ```
 ## OUTPUT:
 
-![myproject](j1.png)
+![myproject](ke1.png)
 
 
 
